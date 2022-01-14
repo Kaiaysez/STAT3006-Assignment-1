@@ -1,4 +1,8 @@
-# STAT3006 Assignment 1: Writing task on Breiman's famous paper "The Two Cultures"(Machine Learning vs Statistics)
+# STAT3006 Assignment 1: Writing task based on Breiman's famous paper "The Two Cultures"(Machine Learning vs Statistics)
+
+### In this assignment, I answer some questions set by my lecturer regarding Breiman's paper.
+
+## Goal of the assignment:
 
 "This assignment is partly to expose you to the contrasting perspectives of what could be
 termed statistical and machine learning approaches. It is also to encourage you to respond to
@@ -13,4 +17,5 @@ develop logical and evidenced arguments to back these and communicate them clear
 response to the issues raised. You need to decide whether you agree or disagree with Breiman
 or hold another position on each key issue."
 
-### i
+### STAT3006 Assignment 1: PDF containing the assignment questions followed by my written work.
+### 
