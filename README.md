@@ -17,7 +17,7 @@ develop logical and evidenced arguments to back these and communicate them clear
 response to the issues raised. You need to decide whether you agree or disagree with Breiman
 or hold another position on each key issue."
 
-### Files in this repo:
+### Files:
 
 Assignment 1.pdf: PDF containing my written work.
 
