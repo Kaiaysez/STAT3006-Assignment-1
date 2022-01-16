@@ -19,6 +19,6 @@ or hold another position on each key issue."
 
 ### Files
 
-Assignment 1.pdf: *PDF containing my written work.*
+Assignment 1.pdf: ****PDF containing my written work.****
 
 Reference Papers: *Folder containing the relevant papers.*
